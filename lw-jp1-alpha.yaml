@@ -1,4 +1,4 @@
 com:
   sbc:
-    profile: watcher_scheduling_test_01
+    profile: watcher_scheduling_test_02
     region: jp1
